@@ -2,7 +2,7 @@
 
 ### Java Developer | Spring Boot | Backend Development
 
-🎓 Computer Science & Engineering (Data Science) Student  
+🎓 Computer Science & Engineering Student  
 💻 Interested in Java Backend Development and Software Engineering  
 🌱 Currently learning Spring Boot and Backend Development  
 📍 Pune, Maharashtra, India
@@ -46,7 +46,7 @@ Reusable C++ data structure implementations using OOP and templates.
 ### 📖 Study Tracker App
 Java-based console application for tracking study activities.
 
-[View Project](https://github.com/Yashec21/Study-Tracker-App)
+[View Project](https://github.com/Yashec21/Study-Tracker-Application)
 
 ---
 
