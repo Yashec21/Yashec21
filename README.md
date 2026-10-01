@@ -43,7 +43,7 @@ Reusable C++ data structure implementations using OOP and templates.
 
 [View Project](https://github.com/Yashec21/Generalised-Data-Structures-Library)
 
-### 📖 Marvellous Study Tracker App
+### 📖 Study Tracker App
 Java-based console application for tracking study activities.
 
 [View Project](https://github.com/Yashec21/Study-Tracker-App)
