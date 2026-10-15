@@ -1,158 +1,127 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Yash%20Patil&fontSize=60&fontColor=0b1220&animation=twinkling&fontAlignY=35&desc=Aspiring%20Java%20Backend%20Developer&descAlignY=58&descSize=22" alt="Yash Patil header" width="100%" />
+# Yash Patil
+### Aspiring Java Backend Developer | Software Developer
 
-<a href="https://github.com/Yashec21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Backend+Developer;Building+REST+APIs+%26+Microservices;Data+Structures+%26+System+Design+Enthusiast;Linux+System+Programming+%7C+Cryptography;Featured%3A+EduTrack+%7C+ParkEngine" alt="Typing SVG" />
-</a>
+**Building backend applications with Java, Spring Boot, REST APIs, databases, and strong DSA fundamentals.**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-7dd3fc?style=for-the-badge&labelColor=0b1220&logo=briefcase&logoColor=7dd3fc" alt="Open to work" />
-<img src="https://komarev.com/ghpvc/?username=Yashec21&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0b1220" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Yashec21?style=for-the-badge&color=7dd3fc&labelColor=0b1220&logo=github&logoColor=7dd3fc" alt="GitHub followers" />
+[![GitHub](https://img.shields.io/badge/GitHub-Yashec21-181717?style=flat&logo=github)](https://github.com/Yashec21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashpatilec/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashpatilec21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0E7490?style=flat&logo=googlechrome&logoColor=white)](https://yashec21.github.io)
 
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+## About Me
 
-```typescript
-const yash = {
-  title: "Computer Science Engineering Student | Aspiring Java Backend Developer",
-  stack: [
-    "Java", "C", "C++", "JavaScript",
-    "Spring Boot", "Spring Framework", "REST APIs", "Microservices",
-    "MySQL", "Oracle (PL/SQL)", "SQL Server", "MongoDB",
-    "Socket Programming", "Linux (Ubuntu / CentOS)", "Git"
-  ],
-  launchedProjects: [
-    "EduTrack",
-    "ParkEngine",
-    "ChatMessenger",
-    "Study-Tracker-Application",
-    "Customised-Virtual-File-System",
-    "Packer-Unpacker",
-    "Generalised-Data-Structures-Library"
-  ],
-  certifications: [],   // none yet
-  status: "B.E. Computer Science & Engineering (Data Science) @ SPPU, Pune | 2027 | CGPA 8.50",
-  openTo: [
-    "Java Backend Developer roles",
-    "Software Developer roles",
-    "Internships & fresher opportunities"
-  ]
-};
-```
+I am a **B.E. Computer Science and Engineering (Data Science) student at SPPU, Pune**, graduating in **2027**. I am preparing for software engineering placements, with a focus on **Java backend development, problem-solving, and building practical projects**.
 
----
+- **Primary focus:** Java, Spring Boot, REST API development, and backend fundamentals
+- **Core foundations:** OOP, Data Structures and Algorithms, SQL, and database concepts
+- **Currently learning:** Spring Boot and backend application development
+- **Career interests:** Java Developer, Backend Developer, and Software Engineer fresher roles
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🎓 EduTrack: Classroom & Student Management Portal
+| Category | Technologies |
+|---|---|
+| Programming Languages | Java, C, C++, JavaScript |
+| Backend Development | Spring Boot, Spring Framework, REST APIs |
+| Databases | MySQL, MongoDB, Oracle PL/SQL, Microsoft SQL Server |
+| Core Concepts | OOP, Data Structures and Algorithms, Collections, Exception Handling, File Handling |
+| Tools & Platforms | Git, GitHub, VS Code, IntelliJ IDEA, Linux |
+| Web Fundamentals | HTML, CSS, JavaScript |
 
-<a href="https://github.com/Yashec21/edutrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashec21&repo=edutrack&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="EduTrack" />
-</a>
+## Featured Projects
 
-An educational management system that simplifies student and course management, covering students, courses, and academic records, with RESTful CRUD APIs and a modular architecture built for scalability and maintainability.
+### 1. [EduTrack — Classroom & Student Management Portal](https://github.com/Yashec21/edutrack)
 
-| Layer | Technology |
-|-------|------------|
-| Language | Java |
-| Framework | Spring Boot |
-| Database | MongoDB |
-| API Style | REST APIs |
+An educational management application focused on student, course, and academic-record management.
 
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0b1220&labelColor=0b1220)](https://github.com/Yashec21/edutrack)
+- **Technologies:** Java, Spring Boot, MongoDB, REST APIs
+- **Focus areas:** CRUD operations, API design, and modular backend structure
+- **Repository:** [View source code](https://github.com/Yashec21/edutrack)
 
----
+### 2. [ParkEngine — Scalable Parking Allocation System](https://github.com/Yashec21/ParkEngine-Scalable-Parking-Allocation-System)
 
-### 🅿️ ParkEngine: Scalable Parking Allocation System
+A Java project for modeling parking allocation and related workflows.
 
-<a href="https://github.com/Yashec21/ParkEngine-Scalable-Parking-Allocation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashec21&repo=ParkEngine-Scalable-Parking-Allocation-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="ParkEngine" />
-</a>
+- **Technologies/concepts:** Java, OOP, design patterns, low-level design
+- **Focus areas:** Parking strategies, ticket management, pricing, and payment-processing workflows
+- **Repository:** [View source code](https://github.com/Yashec21/ParkEngine-Scalable-Parking-Allocation-System)
 
-A Java-based scalable parking allocation system demonstrating OOP, design patterns, ticket management, parking strategies, pricing, and payment processing.
+### 3. [Packer-Unpacker](https://github.com/Yashec21/Packer-Unpacker)
 
-| Layer | Technology |
-|-------|------------|
-| Language | Java |
-| Paradigm | Object-Oriented Programming |
-| Domain | System Design, Low-Level Design (LLD) |
-| Practices | Design Patterns |
+A Java application that packs multiple files into a single file and supports unpacking them.
 
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0b1220&labelColor=0b1220)](https://github.com/Yashec21/ParkEngine-Scalable-Parking-Allocation-System)
+- **Technologies/concepts:** Core Java, OOP, Java Swing, file handling, exception handling
+- **Focus areas:** File I/O, reusable classes, and a GUI-based workflow
+- **Repository:** [View source code](https://github.com/Yashec21/Packer-Unpacker)
 
----
+### 4. [Generalised Data Structures Library](https://github.com/Yashec21/Generalised-Data-Structures-Library)
 
-## 🛠️ Tech Stack
+A generic C++ library implementing fundamental data structures and searching/sorting algorithms.
 
-**Languages**
+- **Technologies/concepts:** C++, templates, OOP, dynamic memory allocation
+- **Includes:** Linked lists, stack, queue, binary search tree, searching algorithms, and sorting algorithms
+- **Repository:** [View source code](https://github.com/Yashec21/Generalised-Data-Structures-Library)
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js&theme=dark" alt="Languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=spring,java&theme=dark" alt="Backend" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
-
-<sub>Also: Oracle (PL/SQL), Microsoft SQL Server</sub>
-
-**Dev Tools & OS**
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,webstorm,linux,ubuntu&theme=dark" alt="Dev tools" />
-
-<sub>Also: Apache Tomcat, Oracle WebLogic, IBM WebSphere</sub>
-
----
-
-## 📊 GitHub Stats
+## Technology Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yashec21&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashec21&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Yashec21&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&currStreakNum=d8dee9&sideNums=d8dee9&sideLabels=7dd3fc&dates=d8dee9&border=7dd3fc&background=2e3440" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yashec21&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
+
+## Placement Preparation
+
+I am strengthening the skills needed for entry-level software engineering roles through:
+
+- Practising DSA and problem-solving
+- Revising Java, OOP, Collections, and exception handling
+- Learning Spring Boot, REST APIs, and database integration
+- Building and documenting projects with Git and GitHub
+- Preparing to explain project architecture, implementation decisions, and trade-offs in interviews
+
+## Education
+
+**B.E. — Computer Science and Engineering (Data Science)**  
+TSSM's Padmabhooshan Vasantdada Patil Institute of Technology, Bavdhan, Pune  
+Savitribai Phule Pune University (SPPU) · Expected graduation: **2027** · CGPA: **8.50**
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashec21&show_icons=true&hide_border=true)](https://github.com/Yashec21)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashec21&layout=compact&hide_border=true)](https://github.com/Yashec21?tab=repositories)
+
+</div>
+
+*GitHub statistics are provided by a third-party service and may occasionally be unavailable.*
+
+## Connect With Me
+
+- **GitHub:** [github.com/Yashec21](https://github.com/Yashec21)
+- **LinkedIn:** [linkedin.com/in/yashpatilec](https://www.linkedin.com/in/yashpatilec/)
+- **Email:** [yashpatilec21@gmail.com](mailto:yashpatilec21@gmail.com)
+- **Portfolio:** [yashec21.github.io](https://yashec21.github.io)
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashec21&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution graph" width="100%" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-<a href="mailto:yashpatilec21@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1220" alt="Email" /></a>
-<a href="https://linkedin.com/in/yashpatilec"><img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b1220" alt="LinkedIn" /></a>
-<a href="https://yashec21.github.io"><img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=0b1220" alt="Portfolio" /></a>
+*Thanks for visiting my profile. I’m always learning, building, and improving.*
 
 </div>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=140&section=footer&animation=twinkling" alt="Footer" width="100%" />
